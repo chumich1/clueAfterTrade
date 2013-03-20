@@ -1,0 +1,29 @@
+[33mcommit 654c143b8209386c260161759cf4345ab0fdd85a[m
+Author: unknown <andrewchumich@gmail.com>
+Date:   Wed Mar 20 00:09:40 2013 -0600
+
+    started loadPeopleTests
+
+[33mcommit 7a689ba053f95aee9b43f895832818e149c6847d[m
+Author: unknown <achumich@.adit.mines.edu>
+Date:   Tue Mar 19 12:19:32 2013 -0600
+
+    Added classes for players tests
+
+[33mcommit 61fe565e4fde999a38676a4f325acf145655e80e[m
+Author: unknown <andrewchumich@gmail.com>
+Date:   Sat Mar 16 14:10:30 2013 -0600
+
+    Refactored calcIndex and added comments
+
+[33mcommit 5ab7b302e364f42dc27010cb489afe090624b1b1[m
+Author: unknown <achumich@.adit.mines.edu>
+Date:   Thu Mar 7 12:20:41 2013 -0700
+
+    First Refactor
+
+[33mcommit dc2961b7e82be60f3e4b1ce775d1ef9dd03dd844[m
+Author: unknown <achumich@.adit.mines.edu>
+Date:   Thu Mar 7 11:46:00 2013 -0700
+
+    inital commit
