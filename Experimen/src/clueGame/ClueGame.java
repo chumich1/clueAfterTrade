@@ -35,6 +35,13 @@ public class ClueGame {
 		return false;
 	}
 	
+	public Player getHumanPlayer(){
+		return human;
+	}
+	
+	public Player getPlayer(int i){
+		return players.get(i);
+	}
 	
 	
 	
